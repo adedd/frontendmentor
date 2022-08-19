@@ -1,0 +1,115 @@
+body {
+    background-color: rgb(3, 23, 46);
+}
+
+.background {
+   
+    display: flex;
+    align-items: center;
+}
+.mainp{
+    border-radius: 20px;
+}
+
+.righttboarder {
+    display: grid;
+    align-content: center;
+}
+
+.centerboarder {
+    background-color: rgb(21, 46, 75);
+    border-radius: 10px;
+    border:9px block white;
+    display: grid;
+    align-content: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-style: outset;
+    border-color: rgba(3, 24, 61, 0.959);
+    border-width: 10px;
+    box-shadow: 10px;
+}
+.leftboarder {
+    display: grid;
+    align-content: center;
+}
+
+
+
+.equilibrium{
+    border-radius: 10%;
+    padding: 20px;
+}
+.img {
+    border-radius: 20%;
+}
+#p {
+    color: hsl(230, 14%, 60%);
+}
+.nftname {
+    color: aliceblue;
+    font-size: 1.15em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+#p1 {
+    font-size: larger;
+    padding-left: 20px;
+    padding-bottom: 0px;
+}
+
+.flexid {
+    display: flex;
+    align-content: space-between;
+    padding-left: 10px;
+}
+
+#p2 {
+    text-align: left;
+    padding: 15px;
+    color: aqua;
+    font-weight: bold;
+}
+
+#p3 {
+    text-align: right;
+    font-weight: bold;
+    padding: 15px;
+}
+.line {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.attribute > .p4 {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.p4 > .dp {
+    border-color: azure;
+    width: 20px;
+    height: 20px;
+    padding-left: 20px;
+}
+
+.p4 > .text {
+    padding-top: 10px;
+}
+.p4 a {
+    color: rgb(189, 196, 202);
+}
+.hr {
+    color: hsl(228, 45%, 44%);
+    padding-left: 20px;
+}
+
+.attribution {
+    display: grid;
+    align-items: center;
+}
